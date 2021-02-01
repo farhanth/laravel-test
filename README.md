@@ -1,3 +1,11 @@
+<p align="center">Laravel Test (PT. Dans Multi Pro - Farhan Taufik Hidayat - 1 February 2021)</p>
+
+<p>I am very sorry this application is not completely finished. I have problems with pagination and search of the Http Request results.</p>
+<p>This question case is answered using laravel 8 + jetstream and livewire scaffolding.</p>
+
+<p>Sincerely,</p>
+<p>Farhan Taufik Hidayat.</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
